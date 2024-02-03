@@ -47,7 +47,7 @@ cargo run -- -j test-journal.json done 2
 
 # List updated tasks
 cargo run -- -j test-journal.json list
-```
+`
 Feel free to contribute, report issues, or suggest enhancements. Happy journaling!
-```
+`
 
