@@ -48,8 +48,6 @@ cargo run -- -j test-journal.json done 2
 # List updated tasks
 cargo run -- -j test-journal.json list
 ```
-
 Feel free to contribute, report issues, or suggest enhancements. Happy journaling!
 ```
 
-Make sure to replace this content with your actual repository details and any other information you want to include in your README. If you have any specific questions or need further assistance, feel free to ask!
