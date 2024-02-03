@@ -1,4 +1,4 @@
-Absolutely! You can include the provided content in your README file on GitHub. Here's the text that you can add to your README.md:
+
 
 ```markdown
 # Rusty Journal
